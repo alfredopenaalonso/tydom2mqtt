@@ -1,7 +1,7 @@
 # tydom2MQTT
 
-![License](https://img.shields.io/github/license/tydom2mqtt/tydom2mqtt)
-![🤖 CI](https://github.com/tydom2mqtt/tydom2mqtt/actions/workflows/ci.yaml/badge.svg)
+![License](https://img.shields.io/github/license/alfredopenaalonso/tydom2mqtt)
+![🤖 CI](https://github.com/alfredopenaalonso/tydom2mqtt/actions/workflows/ci.yaml/badge.svg)
 
 ![](docs/tydom2mqtt_logo_250.png)
 
@@ -12,8 +12,8 @@
 
 ## Contact & Support
 
-- Create a [GitHub issue](https://github.com/tydom2mqtt/tydom2mqtt/issues) for bug reports, feature requests, or questions
-- Add a ⭐️ [star on GitHub](https://github.com/tydom2mqtt/tydom2mqtt) to support the project!
+- Create a [GitHub issue](https://github.com/alfredopenaalonso/tydom2mqtt/issues) for bug reports, feature requests, or questions
+- Add a ⭐️ [star on GitHub](https://github.com/alfredopenaalonso/tydom2mqtt) to support the project!
 
 ## Developer guide
 [Please find here the developer guide](DEV.md)
@@ -23,4 +23,4 @@
 
 ## License
 
-This project is licensed under the [MIT license](https://github.com/tydom2mqtt/tydom2mqtt/blob/master/LICENSE).
+This project is licensed under the [MIT license](https://github.com/alfredopenaalonso/tydom2mqtt/blob/master/LICENSE).
